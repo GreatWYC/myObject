@@ -1,1 +1,1 @@
-# myObject
+# myProject
